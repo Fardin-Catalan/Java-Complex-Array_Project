@@ -23,7 +23,7 @@ public class main{
             }
         }
         System.out.println();
-        System.out.println("After modifying:");
+        System.out.println("After modifying result:");
         for(int j=0;j<old.length;j++){
             System.out.print(old[j]+"  ");
         }
